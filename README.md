@@ -5,5 +5,6 @@
 [![](https://img.shields.io/badge/Blog-meowv.com-brightgreen.svg)](https://meowv.com)
 [![](https://img.shields.io/badge/Blazor-blazor.meowv.com-brightgreen.svg)](https://blazor.meowv.com)
 [![](https://img.shields.io/badge/WeChat-hackxing-44cc11)](https://static.meowv.com/images/wx_qrcode.jpg)
+[![](https://img.shields.io/badge/NuGet-qix-blue)](https://www.nuget.org/profiles/qix)
 
 ![Meowv's github stats](https://github-readme-stats.vercel.app/api?username=Meowv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
