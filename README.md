@@ -17,7 +17,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/Meowv/meowv.com/stargazers"><img alt="Meowv stars" src="https://img.shields.io/github/stars/Meowv/meowv.com?style=flat-square&label=Meowv%20Stars" /></a>
   <a href="https://github.com/Meowv/meowv.com/commits/main"><img alt="Meowv latest commit" src="https://img.shields.io/github/last-commit/Meowv/meowv.com?style=flat-square&label=Last%20Commit" /></a>
 </p>
 
@@ -85,6 +84,6 @@
 
 *Stay curious. Keep building.*
 
-如果这些项目对你有帮助，欢迎给 [**Meowv**](https://github.com/Meowv/meowv.com) 点一颗 ⭐ Star。
+如果这些项目对你有帮助，欢迎点一颗 ⭐ Star。
 
 </div>
